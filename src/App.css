@@ -1,0 +1,10 @@
+.App {
+  margin-top: 20px;
+  min-width: 300px;
+
+  border: 1px dotted black;
+  border-radius: 8px;
+
+  padding: 20px;
+  text-align: center;
+}

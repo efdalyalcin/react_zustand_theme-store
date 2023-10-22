@@ -1,1 +1,1 @@
-# react_zustand_theme-store
+This is basic example of a theme variable store with Zustand using vite.
